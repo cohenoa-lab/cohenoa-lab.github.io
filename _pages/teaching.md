@@ -9,6 +9,9 @@ experience.
 
 I have taught undergraduate and graduate courses in the fields of computer science & bioinformatics since 2010.
 
+## MEET (Middle East Education through Technology)
+   - Guiding groups of Israeli and Palestinian youth in implementation various of programming projects (using Java, HTML, JS, JSP, AJAX ,JDBC and SQL).
+
 ## Hebrew University of Jerusalem
    # The Alexander Silberman Institute of Life Science
     - Teaching assistant, "Molecular Evolution" course: a course that I designed for undergraduate and graduate students (2009 – 2014)
@@ -22,4 +25,5 @@ I have taught undergraduate and graduate courses in the fields of computer scien
   - Lecturer, "Introduction to Data Science" (Winter 2019, Winter 2020, Spring 2022, Winter 2023)
   - Lecturer, "Computational Biology": a new course that I designed for undergraduate and graduate students (Winter 2012-2023)
   - Lecturer, "Introduction to Programming" for non CS students (Spring 2020-2022)
+  - Teaching Python for the lecturers in the college (Winter 2023)
 
