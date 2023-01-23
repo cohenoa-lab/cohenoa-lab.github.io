@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-here goes the teaching
+here goes the teaching  - md?
 {% include base_path %}
 
 {% for post in site.teaching reversed %}
