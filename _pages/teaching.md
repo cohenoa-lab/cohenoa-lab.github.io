@@ -22,13 +22,11 @@ Azrieli College of Engineering ([JCE](https://www.jce.ac.il/en/))
 
 Hebrew University of Jerusalem ([HUJI](https://en.huji.ac.il/))
 ======
- The Alexander Silberman Institute of Life Science
- =======
+ **The Alexander Silberman Institute of Life Science**
  * Teaching assistant, "Molecular Evolution" course: a course that I designed for undergraduate and graduate students (2009-2014)
  * Teaching assistant, "Probability and Statistics" 
  
- The Rachel and Selim Benin School of Computer Science and Engineering 
- =======
+ **The Rachel and Selim Benin School of Computer Science and Engineering**
  * Lecturer, "Obeject Oriented Programming" course (2010-2013)
 
 
