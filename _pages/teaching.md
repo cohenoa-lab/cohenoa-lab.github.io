@@ -3,38 +3,23 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
-Research plays a central role in my teaching as students improve their
-analytical skills and master the tools of data analysis through hands-on
-experience. I have taught undergraduate courses on political violence and
-statistical methodology. While at UNC, I taught the graduate statistics lab for
-Advanced Topics in Political Data Science, where my work was recognized by the
-Political Science Department's Earle Wallace Award for Graduate Student
-Teaching. I also served as a teaching assistant for courses in international
-relations and American politics at UNC, in addition to the ICPSR Summer Program
-where I was a teaching assistant for a course on Bayesian modeling in the social
-sciences. I am also a
-[certified instructor](https://carpentries.org/instructors/#jayrobwilliams) with
-[The Carpentries](https://carpentries.org/), which develops evidence-based
-methods for teaching "essential data and computational skills for conducting
-efficient, open, and reproducible research."
+Teaching plays a central role in my career; I love watching my students improve their
+programming skills and master the tools of computer science, software engineering and data analysis through hands-on
+experience.
 
+I have taught undergraduate and graduate courses in the fields of computer science & bioinformatics since 2010.
 
-You can view my teaching portfolio [here](/files/pdf/teaching/Portfolio.pdf).
-You can find a selection of my teaching materials, including all of the labs
-from Advanced Topics in Political Data Science, [here](/teaching-materials).
+## Hebrew University of Jerusalem
+   # The Alexander Silberman Institute of Life Science
+    - Teaching assistant, "Molecular Evolution" course: a course that I designed for undergraduate and graduate students (2009 – 2014)
+    - Teaching assistant, "Probability and Statistics" 
+   # The Rachel and Selim Benin School of Computer Science and Engineering 
+    - Lecturer, "Obeject Oriented Programming" course (2010 – 2013)
 
-## Washington University in St. Louis
-- Pol Sci 3090: The Scientific Study of Civil War (Spring 2020)
-    - [Syllabus](/files/pdf/teaching/PS 3090 Syllabus.pdf)
-- Pol Sci 3171: International Conflict Management & Resolution (Fall 2019)
-    - [Syllabus](/files/pdf/teaching/PS 3171 Syllabus.pdf)
+## Azrieli College of Engineering
+  - Teaching assistant, "Object Oriented Programming" (Spring 2020, Spring 2021)
+  - Lecturer, "Introduction to Programming and Computer Science" (Winter 2020, Winter 2021)
+  - Lecturer, "Introduction to Data Science" (Winter 2019, Winter 2020, Spring 2022, Winter 2023)
+  - Lecturer, "Computational Biology": a new course that I designed for undergraduate and graduate students (Winter 2012-2023)
+  - Lecturer, "Introduction to Programming" for non CS students (Spring 2020-2022)
 
-## The University of North Carolina at Chapel Hill
-- Poli 281: Quantitative Research in Political Science (Spring 2019)
-    - [Syllabus](/files/pdf/teaching/POLI 281 Syllabus.pdf)
-- Poli 891: Lab for Advanced Topics in Political Data Science (Fall 2017, Fall 2018)
-    - [Syllabus](/files/pdf/teaching/POLI 891 Syllabus.pdf)
-
-## ICPSR Summer Program
-- Introduction to Applied Bayesian Modeling (Summer 2017)
-    - [Syllabus](/files/pdf/teaching/bayes2017.pdf)
