@@ -4,7 +4,7 @@ collection: teaching
 type: 
 permalink: /teaching/jce
 venue: "JCE"
-date: 
+date: 2019-10-01
 location: "Jerusalem, Israel"
 ---
 
