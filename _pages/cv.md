@@ -51,8 +51,7 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+see [Teaching](https://cohenoa-lab.github.io/teaching/) section.
+
   
 
