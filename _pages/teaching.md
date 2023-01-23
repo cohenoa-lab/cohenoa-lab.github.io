@@ -13,10 +13,10 @@ I have taught undergraduate and graduate courses in the fields of computer scien
    - Guiding groups of Israeli and Palestinian youth in implementation various of programming projects (using Java, HTML, JS, JSP, AJAX ,JDBC and SQL).
 
 ## Hebrew University of Jerusalem
-   # The Alexander Silberman Institute of Life Science
+   ### The Alexander Silberman Institute of Life Science
     - Teaching assistant, "Molecular Evolution" course: a course that I designed for undergraduate and graduate students (2009 – 2014)
     - Teaching assistant, "Probability and Statistics" 
-   # The Rachel and Selim Benin School of Computer Science and Engineering 
+   ### The Rachel and Selim Benin School of Computer Science and Engineering 
     - Lecturer, "Obeject Oriented Programming" course (2010 – 2013)
 
 ## Azrieli College of Engineering
