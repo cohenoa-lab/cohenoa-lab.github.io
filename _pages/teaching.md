@@ -7,7 +7,7 @@ Teaching plays a central role in my career; I love watching my students improve 
 programming skills and master the tools of computer science, software engineering and data analysis through hands-on
 experience.
 
-I have taught undergraduate and graduate courses in the fields of computer science & bioinformatics since 2010.
+I have taught undergraduate and graduate courses in the fields of computer science & bioinformatics since 2008.
 
 
 ## Azrieli College of Engineering ([JCE](https://www.jce.ac.il/en/))
@@ -21,11 +21,11 @@ I have taught undergraduate and graduate courses in the fields of computer scien
 
 ## Hebrew University of Jerusalem ([HUJI](https://en.huji.ac.il/))
    ### The Alexander Silberman Institute of Life Science
-   - Teaching assistant, "Molecular Evolution" course: a course that I designed for undergraduate and graduate students (2009 – 2014)
+   - Teaching assistant, "Molecular Evolution" course: a course that I designed for undergraduate and graduate students (2009-2014)
    - Teaching assistant, "Probability and Statistics" 
    ### The Rachel and Selim Benin School of Computer Science and Engineering 
-   - Lecturer, "Obeject Oriented Programming" course (2010 – 2013)
+   - Lecturer, "Obeject Oriented Programming" course (2010-2013)
 
 
 ## Middle East Education through Technology ([MEET](https://www.meet.mit.edu/))
-   - Guiding groups of Israeli and Palestinian youth in implementation various of programming projects (using Java, HTML, JS, JSP, AJAX ,JDBC and SQL).
+   - Guiding groups of Israeli and Palestinian youth in implementation various of programming projects (using Java, HTML, JS, JSP, AJAX ,JDBC and SQL)(2008-2009)
