@@ -51,7 +51,7 @@ Talks
   
 Teaching
 ======
-see [Teaching](https://cohenoa-lab.github.io/teaching/) section.
+See [Teaching](https://cohenoa-lab.github.io/teaching/) section.
 
   
 
