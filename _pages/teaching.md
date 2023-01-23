@@ -21,11 +21,11 @@ I have taught undergraduate and graduate courses in the fields of computer scien
 
 ## Hebrew University of Jerusalem ([HUJI](https://en.huji.ac.il/))
 **The Alexander Silberman Institute of Life Science**
- * Teaching assistant, "Molecular Evolution" course: a course that I designed for undergraduate and graduate students (2009-2014)
- * Teaching assistant, "Probability and Statistics" 
+ * Teaching assistant, ["Molecular Evolution"](https://shnaton.huji.ac.il/index.php/Simple/88852/2011/): a course that I designed for undergraduate and graduate students (2009-2014)
+ * Teaching assistant, ["Fundamentals of Probability and Statistical Analysis"](https://shnaton.huji.ac.il/index.php/Simple/72301/2011/) (2009-2014)
  
 **The Rachel and Selim Benin School of Computer Science and Engineering**
- * Lecturer, "Obeject Oriented Programming" course (2010-2013)
+ * Lecturer, "Object Oriented Programming" course (2010-2013)
 
 
 ## Middle East Education through Technology ([MEET](https://www.meet.mit.edu/))
