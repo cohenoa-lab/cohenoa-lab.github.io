@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Noa Cohen"
 title_separator          : "-"
-name                     : &name "Noa Cohen"
-description              : &description "Postdoc in Political Science"
+name                     : &name "Noa E. Cohen"
+description              : &description "Noa Cohen's lab page"
 url                      : https://cohenoa-lab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cohenoa-lab/cohenoa-lab.github.io"
@@ -82,16 +82,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rob Williams"
+  name             : "Noa Cohen"
   avatar           : "profile.png"
-  bio              : "Data Scientist"
-  location         :
-  employer         :
+  bio              : "Lecturer & Researcher, Computational Biology lab"
+  location         : "Jerusalem, Israel"
+  employer         : "Azrieli College of Engineering"
   pubmed           :
-  orcid            : "http://orcid.org/0000-0001-9259-3883"
-  googlescholar    : "https://scholar.google.com/citations?user=fiaPSmgAAAAJ"
-  email            : "rob.williams@wustl.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  
+  googlescholar    : "https://scholar.google.com/citations?user=BXmTiSAAAAAJ&hl=en"
+  email            : "noace@jce.ac.il"
+  researchgate     : "https://www.researchgate.net/profile/Noa-Cohen-8?ev=hdr_xprf"
+  github           : "cohenoa"
+  orcid            : "https://orcid.org/0000-0002-4638-5407" 
   uri              :
   bitbucket        :
   codepen          :
@@ -99,15 +101,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jayrobwilliams"
-  gitlab           : "jayrobwilliams"
+  gitlab           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "jayrobwilliams"
-  mastodon         : "fosstodon.org/@jayrobw"
+  linkedin         : "cohenoa"
+  mastodon         : 
   pinterest        :
   soundcloud       :
   stackoverflow    : #"https://stackoverflow.com/users/10912314/jayrobwilliams"
