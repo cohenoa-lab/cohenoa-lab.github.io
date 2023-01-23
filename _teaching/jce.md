@@ -1,3 +1,4 @@
+---
 title: "Azrieli College of Engineering ([JCE](https://www.jce.ac.il/en/))"
 collection: teaching
 type: 
