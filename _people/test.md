@@ -1,6 +1,6 @@
 ---
-title: "TBD"
+name: "TBD"
 collection: people
 permalink: /people/test
-date: 
+research: "TBD2"
 ---
