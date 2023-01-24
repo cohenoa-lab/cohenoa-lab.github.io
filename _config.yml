@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Noa Cohen"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Noa E. Cohen"
 description              : &description "Noa Cohen's lab page"
