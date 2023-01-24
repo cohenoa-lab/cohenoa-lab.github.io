@@ -1,4 +1,3 @@
-
 ---
 title: "TBD"
 collection: people
