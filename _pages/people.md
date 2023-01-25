@@ -21,18 +21,18 @@ author_profile: true
 
 # Alumni
 ## BSc
-### 2021 - 2022:
+### 2021 - 2022
 * Ayelet Gibli
 * Tohar Tsvitman
 * Dor Yuran
 * Adi Leibobich
 * Eyal Wasserman
 
-### 2020 - 2021:
+### 2020 - 2021
 * Tal Tabak
 * Rachel Chuwer
 
-### 2019 - 2020:
+### 2019 - 2020
 * Pessi Brickman
 * Bracha Rothstein
 * Yael Neeman
