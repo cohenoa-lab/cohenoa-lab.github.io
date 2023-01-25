@@ -14,7 +14,7 @@ author_profile: true
 * Elchanan Sasson (Co-advised with [Nataly Kravchenko-Balasha](https://natalykbalashalab.huji.ac.il/))
 * Shiran Glasser & Roni Fahndrich (Co-advised with Itay Furman)
 * Yehonatan Deri (Co-advised with [Yossi Danan](https://www.jce.ac.il/prof-yossefyossi-danan/))
-* Almog Yitzhak (Co-advised with Michael Frenkel)
+* Almog Yitzhak (Co-advised with [Michael Frenkel](https://www.linkedin.com/in/michaelfrenkelthe1/))
 * Safa Natsheh 
 
 
