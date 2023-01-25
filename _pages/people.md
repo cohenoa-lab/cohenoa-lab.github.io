@@ -35,6 +35,9 @@ author_profile: true
 * Yael Neeman & Riki Neustadt
 * Michal Bakshi & Yehudit Ben Zeev
 
+
+
+
 {% include base_path %}
 
 {% for post in site.people %}
