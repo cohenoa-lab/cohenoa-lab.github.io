@@ -35,7 +35,10 @@ author_profile: true
 ### 2019 - 2020:
 * Pessi Brickman
 * Bracha Rothstein
-
+* Yael Neeman
+* Riki Neustadt
+* Michal Bakshi
+* Yehudit Ben Zeev
 
 {% include base_path %}
 
