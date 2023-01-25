@@ -21,17 +21,17 @@ author_profile: true
 # Alumni
 ## BSc
 ### 2021 - 2022
-* Ayelet Gibli & Tohar Tsvitman _(won the best project award)_
+* Ayelet Gibli & Tohar Tsvitman ![#8B0000]_(won the best project award)_`#8B0000`
 * Dor Yuran & Adi Leibobich
 * Eyal Wasserman
 
 ### 2020 - 2021
-* Tal Tabak _(won the best poster award)_
+* Tal Tabak ![#8B0000]_(won the best poster award)_`#8B0000`
 * Rachel Chuwer
 * Hodaya David Ben-Haim & Rivka Gozlan
 
 ### 2019 - 2020
-* Pessi Brickman & Bracha Rothstein  _(won the best project award)_
+* Pessi Brickman & Bracha Rothstein  ![#8B0000]_(won the best project award)_`#8B0000`
 * Yael Neeman & Riki Neustadt
 * Michal Bakshi & Yehudit Ben Zeev
 
