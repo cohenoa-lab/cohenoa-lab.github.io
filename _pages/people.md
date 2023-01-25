@@ -12,8 +12,7 @@ author_profile: true
 ## BSc Students
 * Aviv Eldad (Co-advised with [Nataly Kravchenko-Balasha](https://natalykbalashalab.huji.ac.il/))
 * Elchanan Sasson (Co-advised with [Nataly Kravchenko-Balasha](https://natalykbalashalab.huji.ac.il/))
-* Shiran Glasser (Co-advised with Itay Furman)
-* Roni Fahndrich (Co-advised with Itay Furman)
+* Shiran Glasser & Roni Fahndrich (Co-advised with Itay Furman)
 * Yehonatan Deri (Co-advised with [Yossi Danan](https://www.jce.ac.il/prof-yossefyossi-danan/))
 * Almog Yitzhak (Co-advised with Michael Frenkel)
 * Safa Natsheh 
