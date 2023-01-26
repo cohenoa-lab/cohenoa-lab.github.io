@@ -2,7 +2,7 @@
 title: "A deep learning method for pinhole array color image reconstruction"
 collection: publications
 permalink: /publication/2023-optic-letters
-date: 2023-01-25
+date: 2023-01-24
 venue: 'Optic Letters'
 link: 'Coming soon!'
 citation: 'Coming soon!'
