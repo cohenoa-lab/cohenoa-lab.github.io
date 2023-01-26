@@ -31,6 +31,7 @@ author_profile: true
 * Hodaya David Ben-Haim & Rivka Gozlan
 
 ### 2019 - 2020
+* Tom Nagar Levi & Ariel Gedacht
 * Pessi Brickman & Bracha Rothstein _(won the best project award)_
 * Yael Neeman & Riki Neustadt
 * Michal Bakshi & Yehudit Ben Zeev
