@@ -4,6 +4,8 @@ title: "People"
 permalink: /people/
 author_profile: true
 ---
+## Research Assistant
+* Sarah Gingichashvili (PhD student at [Doron Steinberg](https://en.dental.huji.ac.il/Doron%20Steinberg)'s Lab)
 
 ## MSc Studetns
 * Deema Zide (Co-advised with [Nataly Kravchenko-Balasha](https://natalykbalashalab.huji.ac.il/))
