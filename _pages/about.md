@@ -14,8 +14,8 @@ a wide range of topics, including biofilm research and personalized medicine in 
 
 News
 ====
-* Jan 2023: Our paper was accepted to Optics Letters
-* Oct 2022: Our [paper](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-022-01121-y) was published in Genome Medicine
-* Sep 2022: Our [paper](https://www.nature.com/articles/s41598-022-20275-8) was published in Scientific Reports
+* Jan 2023: Our paper was accepted to _Optics Letters_
+* Oct 2022: Our [paper](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-022-01121-y) was published in _Genome Medicine_
+* Sep 2022: Our [paper](https://www.nature.com/articles/s41598-022-20275-8) was published in _Scientific Reports_
 * Jun 2022: Noa gave a talk at the IADR conference
 * May 2022: Deema presented the poster “Computational Analysis of the Heterogeneity of Head and Neck Squamous Cell Carcinoma Using Theoretical and Statistical Methods” at the Hebrew University Faculty Day; this is a collaboration with the lab of Prof. Nataly Kravchenko-Balasha
