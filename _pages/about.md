@@ -14,7 +14,7 @@ a wide range of topics, including biofilm research and personalized medicine in 
 
 News
 ====
-* Jan 2023: Our paper was accepted to Optic letters
+* Jan 2023: Our paper was accepted to Optic Letters
 * Oct 2022: Our paper was accepted to Genome Medicine
 * Sep 2022: Our paper was accepted to Scientific Reports
 * Jun 2022: Noa gave a talk at the IADR conference
