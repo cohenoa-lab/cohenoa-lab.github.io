@@ -71,14 +71,9 @@ social:
   links: # An array of links to social media profiles
 
 
-# Analytics
-analytics:
-  provider               : "goatcounter" # false (default), "google", "google-universal", "custom", "goatcounter"
-  google:
-    tracking_id          : 
-  goatcounter:
-    code		 : jayrobwilliams
-
+   
+# Google Analytics
+google_analytics: G-J0QVPFN7V1
 
 # Site Author
 author:
