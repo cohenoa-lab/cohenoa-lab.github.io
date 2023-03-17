@@ -36,6 +36,7 @@ Honors
 * Certificate of Teaching Excellence for the academic year 2020-2021, JCE
 * Certificate of Outstanding Excellence for the academic year 2020-2021, JCE
 * Certificate of Teaching Excellence for the academic year 2021-2022, JCE 
+* Certificate of Outstanding Excellence for the academic year 2021-2022, JCE
 
 Publications
 ======
