@@ -14,6 +14,7 @@ a wide range of topics, including biofilm research and personalized medicine in 
 
 News
 ====
+* Jun 2023: Our grant proposal was accepted ("German-israeli Cooperation in Cancer Research 2023")
 * Feb 2023: Our [paper](https://opg.optica.org/ol/abstract.cfm?uri=ol-48-5-1116) was published in _Optics Letters_
 * Oct 2022: Our [paper](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-022-01121-y) was published in _Genome Medicine_
 * Sep 2022: Our [paper](https://www.nature.com/articles/s41598-022-20275-8) was published in _Scientific Reports_
