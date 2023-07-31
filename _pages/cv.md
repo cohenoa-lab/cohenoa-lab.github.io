@@ -28,7 +28,8 @@ Work experience
   *	2010 – 2013: Lecturer, School of Computer Science and Software Engineering
 
 *	2018 – 2019: Algorithm Developer, studying speech recognition using deep learning, OrCam Technologies
-*	2019 – present: Researcher and Lecturer, School of Software Engineering and Computer Science, Azrieli College of Engineering (JCE)
+*	2019 – 2023: Lecturer, School of Software Engineering and Computer Science, JCE
+*	2023 - now: Senior Lecturer, School of Software Engineering and Computer Science, JCE
 
 Honors
 ======
