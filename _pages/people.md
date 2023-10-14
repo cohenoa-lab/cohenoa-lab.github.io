@@ -12,15 +12,15 @@ author_profile: true
 ## MSc Studetns
 * Deema Zaid (Co-advised with [Nataly Kravchenko-Balasha](https://natalykbalashalab.huji.ac.il/))
 
-
 ## BSc Students
 * Dor Cohen
 * Sagi Yaakov
 
+
 # Alumni
 
 ## MSc
-### 2021 - 2023
+### 2023
 * Rika Vanunu  (Co-advised with [Yossi Danan](https://www.jce.ac.il/prof-yossefyossi-danan/))
 
 ## BSc
