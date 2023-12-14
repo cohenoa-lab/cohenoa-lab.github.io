@@ -13,9 +13,11 @@ author_profile: true
 * Deema Zaid (Co-advised with [Nataly Kravchenko-Balasha](https://natalykbalashalab.huji.ac.il/))
 
 ## BSc Students
+* Nitzan Migdal
 * Dor Cohen
 * Sagi Yaakov
-
+* Ido Ben-Zvi
+* Yaki Kol
 
 # Alumni
 
