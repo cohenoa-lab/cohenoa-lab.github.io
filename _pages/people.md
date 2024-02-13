@@ -18,6 +18,7 @@ author_profile: true
 * Sagi Yaakov
 * Ido Ben-Zvi
 * Yaki Kol
+* Ilai Gam Zu Letova (Co-advised with [Yossi Danan](https://www.jce.ac.il/prof-yossefyossi-danan/))
 
 # Alumni
 
