@@ -5,12 +5,12 @@ permalink: /people/
 author_profile: true
 ---
 ## Research Assistants
-* Sarah Gingichashvili (PhD student at Prof. [Doron Steinberg](https://en.dental.huji.ac.il/Doron%20Steinberg)'s Lab)
+* Sarah Gingichashvili (PhD student at [Doron Steinberg](https://en.dental.huji.ac.il/Doron%20Steinberg)'s Lab)
 * Nitzan Migdal
 * Omri Nahor
 
 ## MSc Studetns
-* Deema Zaid (Co-advised with Prof. [Nataly Kravchenko-Balasha](https://natalykbalashalab.huji.ac.il/))
+* Deema Zaid (Co-advised with [Nataly Kravchenko-Balasha](https://natalykbalashalab.huji.ac.il/))
 
 ## BSc Students
 * Nitzan Migdal
@@ -18,19 +18,18 @@ author_profile: true
 * Sagi Yaakov
 * Ido Ben-Zvi
 * Yaki Kol
-* Ilai Gam Zu Letova (Co-advised with Dr. [Yossi Danan](https://www.jce.ac.il/prof-yossefyossi-danan/))
 
 # Alumni
 
 ## MSc
 ### 2023
-* Rika Vanunu  (Co-advised with Dr. [Yossi Danan](https://www.jce.ac.il/prof-yossefyossi-danan/))
+* Rika Vanunu  (Co-advised with [Yossi Danan](https://www.jce.ac.il/prof-yossefyossi-danan/))
 
 ## BSc
 ### 2022 - 2023
-* Aviv Eldad & Elchanan Sasson (Co-advised with Prof. [Nataly Kravchenko-Balasha](https://natalykbalashalab.huji.ac.il/))
-* Shiran Glasser & Roni Fahndrich (Co-advised with Dr. Itay Furman)
-* Yehonatan Deri (Co-advised with Dr. [Yossi Danan](https://www.jce.ac.il/prof-yossefyossi-danan/))
+* Aviv Eldad & Elchanan Sasson (Co-advised with [Nataly Kravchenko-Balasha](https://natalykbalashalab.huji.ac.il/))
+* Shiran Glasser & Roni Fahndrich (Co-advised with Itay Furman)
+* Yehonatan Deri (Co-advised with [Yossi Danan](https://www.jce.ac.il/prof-yossefyossi-danan/))
 * Almog Yitzhak (Co-advised with [Michael Frenkel](https://www.linkedin.com/in/michaelfrenkelthe1/))
 * Safa Natsheh 
 
