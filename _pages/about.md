@@ -13,7 +13,8 @@ a wide range of topics, including biofilm research and personalized medicine in 
 
 News
 ====
-*  March 2024: Our grant proposal was accepted - M-ERA.NET ("Smart nanogels of bio-based antimicrobials to prevent urinary tract infections by disrupting inter- and intra-species communication of pathogens") - we are hiring MSc and PhD students to join this project (a collaboration with Prof. Doron Steinberg).
+*  Dec 2024: Our grant proposal was accepted - MOST ("A Learning-Based Tool for Treatment Decision and Prognosis of Success Rates in Hospitalized Severe Inflammatory Bowel Disease (IBD) Patients")
+*  Mar 2024: Our grant proposal was accepted - M-ERA.NET ("Smart nanogels of bio-based antimicrobials to prevent urinary tract infections by disrupting inter- and intra-species communication of pathogens") - we are hiring MSc and PhD students to join this project (a collaboration with Prof. Doron Steinberg).
 *  Jul 2023: Our grant proposal was accepted ("German-Israeli Cooperation in Cancer Research 2023") - we are hiring MSc and PhD students to join this project (a collaboration with [Prof. Nataly Kravchenko-Balasha lab](https://natalykbalashalab.huji.ac.il/)).
 *  June 2023 Our [conference paper](https://ieeexplore.ieee.org/document/10232678) was publised in _2023 Conference on Lasers and Electro-Optics Europe & European Quantum Electronics Conference (CLEO/Europe-EQEC)_
 * Feb 2023: Our [paper](https://opg.optica.org/ol/abstract.cfm?uri=ol-48-5-1116) was published in _Optics Letters_.
