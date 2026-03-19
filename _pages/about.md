@@ -7,12 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am the head of the Computer Science department at the School of Software and Electrical Engineering at [The Azrieli College of Engineering](https://www.jce.ac.il/). My research lab studies computational biology. Our research covers 
+I am the deputy head of the software engineering department at the School of Software and Electrical Engineering at [The Azrieli College of Engineering](https://www.jce.ac.il/). My research lab studies computational biology. Our research covers 
 a wide range of topics, including biofilm research and personalized medicine in cancer research. Our goal is to develop user-friendly open-source tools that will be accessible to other bioinformaticians and biology researchers. 
 
 
 News
 ====
+*  Mar 2026, our [paper](https://www.mdpi.com/1422-0067/27/6/2782) was published in _International Journal of Molecular Sciences_
 *  Dec 2024: Our grant proposal was accepted - MOST ("A Learning-Based Tool for Treatment Decision and Prognosis of Success Rates in Hospitalized Severe Inflammatory Bowel Disease (IBD) Patients")
 *  Mar 2024: Our grant proposal was accepted - M-ERA.NET ("Smart nanogels of bio-based antimicrobials to prevent urinary tract infections by disrupting inter- and intra-species communication of pathogens") - we are hiring MSc and PhD students to join this project (a collaboration with Prof. Doron Steinberg).
 *  Jul 2023: Our grant proposal was accepted ("German-Israeli Cooperation in Cancer Research 2023") - we are hiring MSc and PhD students to join this project (a collaboration with [Prof. Nataly Kravchenko-Balasha lab](https://natalykbalashalab.huji.ac.il/)).
