@@ -9,10 +9,10 @@ author_profile: true
 * Bar Golan
 
 ## Post-doc
-* Sarah Gingichashvili (Co-advised with [Doron Steinberg](https://en.dental.huji.ac.il/Doron%20Steinberg)'s Lab)
+* Sarah Gingichashvili (Co-advised with [Doron Steinberg](https://en.dental.huji.ac.il/Doron%20Steinberg))
 
 ## MSc Studetns
-* Adi Aharoni (MSc student at [Doron Steinberg](https://en.dental.huji.ac.il/Doron%20Steinberg)'s Lab)
+* Adi Aharoni (Co-advised with [Doron Steinberg](https://en.dental.huji.ac.il/Doron%20Steinberg) and Moshe Amitay)
 * Deema Zaid (Co-advised with [Nataly Kravchenko-Balasha](https://natalykbalashalab.huji.ac.il/))
 
 ## BSc Students
