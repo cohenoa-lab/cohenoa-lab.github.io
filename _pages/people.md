@@ -5,20 +5,20 @@ permalink: /people/
 author_profile: true
 ---
 ## Research Assistants
-* Sarah Gingichashvili (PhD student at [Doron Steinberg](https://en.dental.huji.ac.il/Doron%20Steinberg)'s Lab)
-* Nitzan Migdal
 * Omri Nahor
+* Bar Golan
+
+## Post-doc
+* Sarah Gingichashvili (Co-advised with [Doron Steinberg](https://en.dental.huji.ac.il/Doron%20Steinberg)'s Lab)
 
 ## MSc Studetns
+* Adi Aharoni (MSc student at [Doron Steinberg](https://en.dental.huji.ac.il/Doron%20Steinberg)'s Lab)
 * Deema Zaid (Co-advised with [Nataly Kravchenko-Balasha](https://natalykbalashalab.huji.ac.il/))
 
 ## BSc Students
-* Bar Golan
-* Nitzan Migdal
-* Dor Cohen
-* Sagi Yaakov
-* Ido Ben-Zvi
-* Yaki Kol
+* Yogev Solomon & Ron Astrin (collaboration with Intel)
+* Lior Lahav
+* TBD
 
 # Alumni
 
@@ -27,13 +27,6 @@ author_profile: true
 * Rika Vanunu  (Co-advised with [Yossi Danan](https://www.jce.ac.il/prof-yossefyossi-danan/))
 
 ## BSc
-
-### 2025 - 2026
-* Yogev Solomon & Ron Astrin (collaboration with Intel)
-* Lior Lahav
-* TBD
-
-
 ### 2024 - 2025
 * Bar Golan (Co-advised with [Nataly Kravchenko-Balasha](https://natalykbalashalab.huji.ac.il/))
 * Saeed Asle  _(won the best project award)_
