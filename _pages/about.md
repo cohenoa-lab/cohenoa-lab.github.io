@@ -13,6 +13,8 @@ a wide range of topics, including biofilm research and personalized medicine in 
 
 News
 ====
+
+*  May 2026, our [paper]([https://www.mdpi.com/1422-0067/27/6/2782](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag477/8677910?utm_source=authortollfreelink&utm_campaign=nar&utm_medium=email&guestAccessKey=)) was published in _Nucleic Acids Research_ (Web Server Issue)
 *  Mar 2026, our [paper](https://www.mdpi.com/1422-0067/27/6/2782) was published in _International Journal of Molecular Sciences_
 *  Dec 2024: Our grant proposal was accepted - MOST ("A Learning-Based Tool for Treatment Decision and Prognosis of Success Rates in Hospitalized Severe Inflammatory Bowel Disease (IBD) Patients")
 *  Mar 2024: Our grant proposal was accepted - M-ERA.NET ("Smart nanogels of bio-based antimicrobials to prevent urinary tract infections by disrupting inter- and intra-species communication of pathogens") - we are hiring MSc and PhD students to join this project (a collaboration with Prof. Doron Steinberg).
